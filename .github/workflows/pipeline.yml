@@ -19,4 +19,4 @@ jobs:
           ls external-lab2  # Перевірка вмісту
       
       - name: Build code
-        run: echo "Building project..."
+        run: echo "06.06.2025..."
